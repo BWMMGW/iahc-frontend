@@ -1,11 +1,23 @@
+# iahc Network
+
 Welcome to iahc profile builder it's one of my first projects on github I hope you love it
 
-1-Create a .env.local and write your server address there
+# Environments 
+
+1-Create your .env.local file and write your server address there
 
 NEXT_PUBLIC_API_URL=http://yourserverhere
 
-2-Run pnpm install
+# Downloading the node modules
 
-3-Run pnpm build
+1-Run pnpm install
 
-4-Run pnpm start
+# Testing/Debugging
+
+1-Run pnpm dev
+
+# Building
+
+1-Run pnpm build
+
+2-Run pnpm start
