@@ -6,7 +6,7 @@ Welcome to iahc profile builder it's one of my first projects on github I hope y
 
 1-Create your .env.local file and write your server address there
 
-NEXT_PUBLIC_API_URL=http://yourserverhere
+NEXT_PUBLIC_API_URL=http://yourbackendserverhere
 
 # Downloading the node modules
 
